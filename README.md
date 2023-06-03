@@ -161,6 +161,14 @@
 | 159. | Service Classification | [Link](https://github.com/thealper2/Service-Classification) | [Kaggle](https://www.kaggle.com/datasets/damlaerek0/telecust1000t) |
 | 160. | Gender Prediction from Name | [Link](https://github.com/thealper2/Gender-Prediction-from-Name) | [Kaggle](https://www.kaggle.com/datasets/pritsheta/indian-male-and-female-name-dataset) |
 | 161. | Beer Consumption Analysis | [Link](https://github.com/thealper2/Beer-Consumption-Analysis) | [Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo) | 
+| 162. | Twitch Streamer Analysis | [Link](https://github.com/thealper2/Twitch-Streamer-Analysis) | [Kaggle](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata) |
+| 163. | Terrorism Analysis | [Link](https://github.com/thealper2/Terrorism-Analysis) | [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd) |
+| 164. | Weight Category Analysis | [Link](https://github.com/thealper2/Weight-Category-Prediction) | [Kaggle](https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex) |
+| 165. | Student Performance Analysis | [Link](https://github.com/thealper2/Student-Performance-Analysis) | [Kaggle](https://www.kaggle.com/datasets/larsen0966/student-performance-data-set) |
+| 166. | Solar Irradiance Prediction | [Link](https://github.com/thealper2/Solar-Irradiance-Prediction) | [Kaggle](https://www.kaggle.com/datasets/varun23/predict-clearsky-global-horizontal-irradianceghi) |
+| 167. | Ship Crew Size Prediction | [Link](https://github.com/thealper2/Ship-Crew-Size-Analysis) | [X]() |
+| 168. | Soil Moisture Prediction | [Link](https://github.com/thealper2/Soil-Moisture-Prediction) | [Kaggle](https://www.kaggle.com/datasets/amirmohammdjalili/soil-moisture-dataset) |
+| 169. | Resume Selection | [Link](https://github.com/thealper2/Resume-Selection) | [Kaggle](https://www.kaggle.com/datasets/hassaandaoud/resume-data) | 
 
 
 
