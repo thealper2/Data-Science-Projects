@@ -152,10 +152,15 @@
 | 150. | PE Header Analysis | [Link](https://github.com/thealper2/Security-ML/tree/main/PE%20Header%20Analysis) | [Kaggle](https://www.kaggle.com/datasets/fanbyprinciple/file-pe-headers) |
 | 151. | PUF | [Link](https://github.com/thealper2/Security-ML/tree/main/PUFv) | [Kaggle]() |
 | 152. | Wifi Localization | [Link](https://github.com/thealper2/Security-ML/tree/main/Wifi%20Localization) | [ICS UCI](https://archive.ics.uci.edu/ml/machine-learning-databases/00422/wifi_localization.txt) |
-| 153. | Flowers Recognition | [Link](https://github.com/thealper2/Flowers-Recognition) | [Kaggle]() |
-
-
-
+| 153. | Flowers Recognition | [Link](https://github.com/thealper2/Flowers-Recognition) | [Kaggle](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition) |
+| 154. | 911 Calls Analysis | [Link](https://github.com/thealper2/911-Call-Analysis) | [Kaggle](https://www.kaggle.com/datasets/mchirico/montcoalert) |
+| 155. | Fruit Classification | [Link](https://github.com/thealper2/Fruit-Classification) | [Kaggle](https://www.kaggle.com/datasets/muratkokludataset/date-fruit-datasets) |
+| 156. | E-Sign Prediction | [Link](https://github.com/thealper2/E-Sign-Prediction) | [Kaggle](https://www.kaggle.com/datasets/dondata/loans-data) |
+| 157. | Student Score Prediction | [Link](https://github.com/thealper2/Student-Score-Prediction)| [Kaggle](https://www.kaggle.com/datasets/akashkothare/tsf-datasets?select=student_scores.csv) |
+| 158. | Gamma Telescope Prediction | [Link](https://github.com/thealper2/Gamma-Telescope-Prediction) | [Kaggle](https://www.kaggle.com/datasets/ukveteran/magic-gamma-telescope) |
+| 159. | Service Classification | [Link](https://github.com/thealper2/Service-Classification) | [Kaggle](https://www.kaggle.com/datasets/damlaerek0/telecust1000t) |
+| 160. | Gender Prediction from Name | [Link](https://github.com/thealper2/Gender-Prediction-from-Name) | [Kaggle](https://www.kaggle.com/datasets/pritsheta/indian-male-and-female-name-dataset) |
+| 161. | Beer Consumption Analysis | [Link](https://github.com/thealper2/Beer-Consumption-Analysis) | [Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo) | 
 
 
 
