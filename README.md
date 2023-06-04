@@ -169,7 +169,16 @@
 | 167. | Ship Crew Size Prediction | [Link](https://github.com/thealper2/Ship-Crew-Size-Analysis) | [X]() |
 | 168. | Soil Moisture Prediction | [Link](https://github.com/thealper2/Soil-Moisture-Prediction) | [Kaggle](https://www.kaggle.com/datasets/amirmohammdjalili/soil-moisture-dataset) |
 | 169. | Resume Selection | [Link](https://github.com/thealper2/Resume-Selection) | [Kaggle](https://www.kaggle.com/datasets/hassaandaoud/resume-data) | 
-
+| 170. | Line Detection | [Link](https://github.com/thealper2/Line-Detection) | [X]() |
+| 171. | Polygon Detection | [Link](https://github.com/thealper2/Polygon-Detection) | [X]() |
+| 172. | Blurry Image Detection | [Link](https://github.com/thealper2/Blurry-Image-Detection) | [X]() |
+| 173. | Transition Effect | [Link](https://github.com/thealper2/Transition-Effect) | [X]() |
+| 174. | Face Detection | [Link](https://github.com/thealper2/Face-Detection) | [X]() |
+| 175. | Eye Detection | [Link](https://github.com/thealper2/Eye-Detection) | [X]() |
+| 176. | Body Detection | [Link](https://github.com/thealper2/Body-Detection) | [X]() |
+| 177. | Car Detection | [Link](https://github.com/thealper2/Car-Detection) | [X]() |
+| 178. | Smile Detection | [Link](https://github.com/thealper2/Smile-Detection) | [X]() |
+| 179. | Car Counting | [Link](https://github.com/thealper2/Car-Counting) | [X]() |
 
 
 
