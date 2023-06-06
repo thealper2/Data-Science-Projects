@@ -179,6 +179,7 @@
 | 177. | Car Detection | [Link](https://github.com/thealper2/Car-Detection) | [X]() |
 | 178. | Smile Detection | [Link](https://github.com/thealper2/Smile-Detection) | [X]() |
 | 179. | Car Counting | [Link](https://github.com/thealper2/Car-Counting) | [X]() |
+| 180. | Shark Attack Prediction | [Link](https://github.com/thealper2/Shark-Attack-Prediction) | [Kaggle](https://www.kaggle.com/datasets/teajay/global-shark-attacks) |
 
 
 
