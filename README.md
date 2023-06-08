@@ -181,7 +181,8 @@
 | 179. | Car Counting | [Link](https://github.com/thealper2/Car-Counting) | [X]() |
 | 180. | Shark Attack Prediction | [Link](https://github.com/thealper2/Shark-Attack-Prediction) | [Kaggle](https://www.kaggle.com/datasets/teajay/global-shark-attacks) |
 | 181. | Penguin Classification | [Link](https://github.com/thealper2/Penguin-Classification) | [Kaggle](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data) |
-
+| 182. | League of Legends win Prediction | [Link](https://github.com/thealper2/League-of-Legends-Win-Prediction) | [Kaggle](https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min) |
+| 183. | World Cup 2022 Sentiment Analysis | [Link](https://github.com/thealper2/WC-2022-Sentiment-Analysis) | [Kaggle](https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets) |
 
 
 
