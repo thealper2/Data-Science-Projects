@@ -183,6 +183,20 @@
 | 181. | Penguin Classification | [Link](https://github.com/thealper2/Penguin-Classification) | [Kaggle](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data) |
 | 182. | League of Legends win Prediction | [Link](https://github.com/thealper2/League-of-Legends-Win-Prediction) | [Kaggle](https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min) |
 | 183. | World Cup 2022 Sentiment Analysis | [Link](https://github.com/thealper2/WC-2022-Sentiment-Analysis) | [Kaggle](https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets) |
+| 184. | ML.net Fake Bank Note Detection | [Link]() | []() |
+| 185. | ML.net Weight Category Classification | [Link]() | []() |
+| 186. | ML.net Glass Classification | [Link]() | []() |
+| 187. | ML.net Taxi Fare Prediction | [Link]() | []() |
+| 188. | ML.net Fish Weight Prediction | [Link]() | []() |
+| 189. | ML.net ASP.NET Glass Classification | [Link]() | []() | 
+| 190. | Wine Quality Checker | [Link}() | []() |
+| 191. | CometML Diabetes Prediction | [Link]() | []() |
+| 192. | CometML Breast Cancer Classification | [Link]() | []() |
+| 193. | Fashion MNIST Flask | [Link]() | []() |
+| 194. | FASTAI IMDB Sentiment Analysis | [Link]() | []() |
+| 195. | FASTAPI Iris Classification | [Link]() | []() |
+| 196. | Flask MNIST Digit Classification | [Link]() | []() |
+| 197. | MLflow Liver Disease Prediction | [Link]() | []() | 
 
 
 
