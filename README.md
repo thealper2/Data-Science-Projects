@@ -194,7 +194,7 @@
 | 192. | Python | cometml | CometML Breast Cancer Classification | [Link](https://github.com/thealper2/Comet-ML-Breast-Cancer-Classification) | []() |
 | 193. | Python | Flask | Fashion MNIST Flask | [Link](https://github.com/thealper2/Fashion-MNIST-Flask) | []() |
 | 194. | Python | X | FASTAI IMDB Sentiment Analysis | [Link](https://github.com/thealper2/FASTAI-IMDB-Sentiment-Analysis) | []() |
-| 195. | Python | FastAPI | FASTAPI Iris Classification | [Link]() | [](https://github.com/thealper2/Iris-Classification) |
+| 195. | Python | FastAPI + React | FASTAPI Iris Classification | [Link](https://github.com/thealper2/Iris-Classification) | []() |
 | 196. | Python | Flask | Flask MNIST Digit Classification | [Link](https://github.com/thealper2/FLASK-MNIST-Digit-Classification) | []() |
 | 197. | Python | mlflow | MLflow Liver Disease Prediction | [Link](https://github.com/thealper2/MLflow-Liver-Disease-Prediction) | []() | 
 | 198. | Python | Dash | Dash Iris Classification | [Link](https://github.com/thealper2/Dash-Iris-Classification) | []() |
@@ -225,7 +225,7 @@
 | 223. | Javascript | Extension | LSTM Text Generator |  [Link](https://github.com/thealper2/LSTM-Text-Generator) | []() |
 | 224. | Python | X | CIFAR10 Laser Beam Attack |  [Link](https://github.com/thealper2/CIFAR10-Laser-Beam-Attack) | []() |
 | 225. | Python | X | Captcha Solver |  [Link](https://github.com/thealper2/captcha_solver) | []() |
-| 226. | Python | X | CUDA Vector Addition |  [Link](https://github.com/thealper2/CUDA-Vector-Addition) | []() |
+| 226. | CUDA | X | CUDA Vector Addition |  [Link](https://github.com/thealper2/CUDA-Vector-Addition) | []() |
 | 227. | Python | X | DCGAN |  [Link](https://github.com/thealper2/tf-keras-dcgan) | []() |
 | 228. | Python | X | MALIMG Malware Classification |  [Link](https://github.com/thealper2/MALIMG-Malware-Classification) | []() |
 | 229. | Python | Flask | peml: ML-Based PE File Analyzer |  [Link](https://github.com/thealper2/peml) | []() |
