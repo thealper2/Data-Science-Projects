@@ -183,25 +183,86 @@
 | 181. | Penguin Classification | [Link](https://github.com/thealper2/Penguin-Classification) | [Kaggle](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data) |
 | 182. | League of Legends win Prediction | [Link](https://github.com/thealper2/League-of-Legends-Win-Prediction) | [Kaggle](https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min) |
 | 183. | World Cup 2022 Sentiment Analysis | [Link](https://github.com/thealper2/WC-2022-Sentiment-Analysis) | [Kaggle](https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets) |
-| 184. | ML.net Fake Bank Note Detection | [Link]() | []() |
-| 185. | ML.net Weight Category Classification | [Link]() | []() |
-| 186. | ML.net Glass Classification | [Link]() | []() |
-| 187. | ML.net Taxi Fare Prediction | [Link]() | []() |
-| 188. | ML.net Fish Weight Prediction | [Link]() | []() |
-| 189. | ML.net ASP.NET Glass Classification | [Link]() | []() | 
-| 190. | Wine Quality Checker | [Link}() | []() |
-| 191. | CometML Diabetes Prediction | [Link]() | []() |
-| 192. | CometML Breast Cancer Classification | [Link]() | []() |
-| 193. | Fashion MNIST Flask | [Link]() | []() |
-| 194. | FASTAI IMDB Sentiment Analysis | [Link]() | []() |
+| 184. | ML.net Fake Bank Note Detection | [Link](https://github.com/thealper2/ML.net-Fake-Bank-Note-Detection) | []() |
+| 185. | ML.net Weight Category Classification | [Link](https://github.com/thealper2/ML.net-Weight-Category-Classification) | []() |
+| 186. | ML.net Glass Classification | [Link](https://github.com/thealper2/ML.net-Glass-Classification) | []() |
+| 187. | ML.net Taxi Fare Prediction | [Link](https://github.com/thealper2/ML.net-Taxi-Fare-Prediction) | []() |
+| 188. | ML.net Fish Weight Prediction | [Link](https://github.com/thealper2/ML.net-Fish-Weight-Prediction) | []() |
+| 189. | ML.net ASP.NET Glass Classification | [Link](https://github.com/thealper2/ML.net-ASP-Glass-Classification) | []() | 
+| 190. | Wine Quality Checker | [Link}(https://github.com/thealper2/Wine-Quality-Checker) | []() |
+| 191. | CometML Diabetes Prediction | [Link](https://github.com/thealper2/Comet-ML-Diabetes-Prediction) | []() |
+| 192. | CometML Breast Cancer Classification | [Link](https://github.com/thealper2/Comet-ML-Breast-Cancer-Classification) | []() |
+| 193. | Fashion MNIST Flask | [Link](https://github.com/thealper2/Fashion-MNIST-Flask) | []() |
+| 194. | FASTAI IMDB Sentiment Analysis | [Link](https://github.com/thealper2/FASTAI-IMDB-Sentiment-Analysis) | []() |
 | 195. | FASTAPI Iris Classification | [Link]() | []() |
-| 196. | Flask MNIST Digit Classification | [Link]() | []() |
-| 197. | MLflow Liver Disease Prediction | [Link]() | []() | 
-
-
-
-
-
+| 196. | Flask MNIST Digit Classification | [Link](https://github.com/thealper2/FLASK-MNIST-Digit-Classification) | []() |
+| 197. | MLflow Liver Disease Prediction | [Link](https://github.com/thealper2/MLflow-Liver-Disease-Prediction) | []() | 
+| 198. | Dash Iris Classification | [Link](https://github.com/thealper2/Dash-Iris-Classification) | []() |
+| 199. | Dash Heart Disease Prediction | [Link](https://github.com/thealper2/Dash-Heart-Disease-Prediction) | []() |
+| 200. | GONUM Sales Prediction | [Link](https://github.com/thealper2/GONUM-Sales-Prediction) | []() |
+| 201. | MLKit Text Recognition | [Link](https://github.com/thealper2/MLKit_Text_Recognition) | []() |
+| 202. | MLKit Image Labeling | [Link](https://github.com/thealper2/MLKit_Image_Labeling) | []() |
+| 203. | MLKit Barcode Scanner | [Link](https://github.com/thealper2/MLKit_Barcode_Scanner) | []() |
+| 204. | MLKit Smiling Detection |  [Link](https://github.com/thealper2/MLKit_Smiling_Detection) | []() |
+| 205. | MLKit Text Translation |  [Link](https://github.com/thealper2/MLKit_Text_Translation) | []() |
+| 206. | MLKit Object Detection |  [Link](https://github.com/thealper2/MLKit_Object_Detection) | []() |
+| 207. | MLKit Face Detection |  [Link](https://github.com/thealper2/MLKit_Face_Detection) | []() |
+| 208. | Fruit Vegetable Classification |  [Link](https://github.com/thealper2/Fruit-Vegetable-Classification) | []() |
+| 209. | Spark Adult Income Classification |  [Link](https://github.com/thealper2/Spark-Adult-Income-Classification) | []() |
+| 210. | Spark Sales Prediction |  [Link](https://github.com/thealper2/Spark-Sales-Prediction) | []() |
+| 211. | Spark Mall Customers Clustering |  [Link](https://github.com/thealper2/Spark-Mall-Customers-Clustering) | []() |
+| 212. | Spark Iris Classification |  [Link](https://github.com/thealper2/Spark-Iris-Classification) | []() |
+| 213. | Cryotherapy Analysis |  [Link](https://github.com/thealper2/Cryotherapy-Analysis) | []() |
+| 214. | Traffic Prediction |  [Link](https://github.com/thealper2/Traffic-Prediction) | []() |
+| 215. | Web Forum Analysis |  [Link](https://github.com/thealper2/Web-Forum-Analysis) | []() |
+| 216. | AWS Honeypot Analysis |  [Link](https://github.com/thealper2/AWS-Honeypot-Analysis) | []() |
+| 217. | Malware Memory Analysis |  [Link](https://github.com/thealper2/Malware-Memory-Analysis) | []() |
+| 218. | Cyber Security Job Salary Prediction |  [Link](https://github.com/thealper2/Cyber-Security-Job-Salary-Prediction) | []() |
+| 219. | CVE Severity Prediction |  [Link](https://github.com/thealper2/BERT-CVE-Severity-Prediction) | []() |
+| 220. | MNIST Evasion Attack FGSM Method |  [Link](https://github.com/thealper2/MNIST-Evasion-Attack-FGSM-Method) | []() |
+| 221. | CIFAR10 DeepFool Attack |  [Link](https://github.com/thealper2/CIFAR10-DeepFool-Attack) | []() |
+| 222. | Fashion MNIST MIFace Model Inversion Attack |  [Link](https://github.com/thealper2/Fashion-MNIST-MIFace-Model-Inversion-Attack) | []() |
+| 223. | LSTM Text Generator |  [Link](https://github.com/thealper2/LSTM-Text-Generator) | []() |
+| 224. | CIFAR10 Laser Beam Attack |  [Link](https://github.com/thealper2/CIFAR10-Laser-Beam-Attack) | []() |
+| 225. | Captcha Solver |  [Link](https://github.com/thealper2/captcha_solver) | []() |
+| 226. | CUDA Vector Addition |  [Link](https://github.com/thealper2/CUDA-Vector-Addition) | []() |
+| 227. | DCGAN |  [Link](https://github.com/thealper2/tf-keras-dcgan) | []() |
+| 228. | MALIMG Malware Classification |  [Link](https://github.com/thealper2/MALIMG-Malware-Classification) | []() |
+| 229. | peml: ML-Based PE File Analyzer |  [Link](https://github.com/thealper2/peml) | []() |
+| 230. | Quran NLP Analysis |  [Link](https://github.com/thealper2/quran-nlp-analysis) | []() |
+| 231. | Air Passengers Prediction |  [Link](https://github.com/thealper2/Air-Passengers-Prediction) | []() |
+| 232. | Wildfire Detection |  [Link](https://github.com/thealper2/Wildfire-Detection) | []() |
+| 233. | BTC Analysis |  [Link](https://github.com/thealper2/BTC-Analysis) | []() |
+| 234. | CSGO Round Winner Prediction |  [Link](https://github.com/thealper2/CSGO-Round-Winner-Prediction) | []() |
+| 235. | XR WRIST Classification |  [Link](https://github.com/thealper2/MURA-XR-WRIST-Classification) | []() |
+| 236. | androml: ML-Based Android APK File Analyzer |  [Link](https://github.com/thealper2/androml) | []() |
+| 237. | Automatic License Plate Detection |  [Link](https://github.com/thealper2/Automatic-License-Plate-Detection) | []() |
+| 238. | Pytesseract Document Classification |  [Link](https://github.com/thealper2/Pytesseract-Document-Classification) | []() |
+| 239. | Spam Detection Extension |  [Link](https://github.com/thealper2/Spam-Detection-Extension) | []() |
+| 240. | Pentest Screenshot Classification |  [Link](https://github.com/thealper2/Pentest-Screenshot-Classification) | []() |
+| 241. | Weapon Detection |  [Link](https://github.com/thealper2/Weapon-Detection) | []() |
+| 242. | PDF Document Classification |  [Link](https://github.com/thealper2/PDF-Document-Classification) | []() |
+| 243. | Deep Fake Voice Recognition |  [Link](https://github.com/thealper2/Deep-Fake-Voice-Recognition) | []() |
+| 244. | Javascript Obfuscation Detection |  [Link](https://github.com/thealper2/Javascript-Obfuscation-Detection) | []() |
+| 245. | Hybrid Apps Security Analysis |  [Link](https://github.com/thealper2/Hybrid-Apps-Security-Analysis) | []() |
+| 246. | IoT Device Temperature Forecasting |  [Link](https://github.com/thealper2/IoT-Device-Temperature-Forecasting) | []() |
+| 247. | M1 Purchase Prediction |  [Link](https://github.com/thealper2/M1-Purchase-Prediction) | []() |
+| 248. | Cyber Inspector |  [Link](https://github.com/thealper2/AISECLAB-cyber-inspector) | []() |
+| 249. | Malicious QR Detection |  [Link](https://github.com/thealper2/Malicious-QR-Detection) | []() |
+| 250. | Mr Robot Season Prediction |  [Link](https://github.com/thealper2/Mr-Robot-Season-Prediction) | []() |
+| 251. | Poker Hand Classification |  [Link](https://github.com/thealper2/Poker-Hand-Classification) | []() |
+| 252. | Forest Cover Type Prediction |  [Link](https://github.com/thealper2/Forest-Cover-Type-Prediction) | []() |
+| 253. | Marathon Time Prediction |  [Link](https://github.com/thealper2/Marathon-Time-Prediction) | []() |
+| 254. | Diamond Price Prediction |  [Link](https://github.com/thealper2/Diamond-Price-Prediction) | []() |
+| 255. | Grocery A/B Test |  [Link](https://github.com/thealper2/Grocery-AB-Test) | []() |
+| 256. | Customer Segmentation |  [Link](https://github.com/thealper2/Customer-Segmentation) | []() |
+| 257. | Mall Customer Clustering |  [Link](https://github.com/thealper2/Mall-Customer-Clustering) | []() |
+| 258. | Aquatic Animal Classification |  [Link](https://github.com/thealper2/Aquatic-Animal-Classification) | []() |
+| 259. | Face Mask Detection |  [Link](https://github.com/thealper2/Face-Mask-Detection) | []() |
+| 260. | Medical Image Denoising |  [Link](https://github.com/thealper2/Medical-Image-Denoising) | []() |
+| 261. | Phone Price Prediction |  [Link](https://github.com/thealper2/Phone-Price-Prediction) | []() |
+| 262. | Sound Classification |  [Link](https://github.com/thealper2/Sound-Classification) | []() |
+| 263 | pescanner: ML-Based PE File Scanner |  [Link](https://github.com/thealper2/pescanner) | []() |
 
 
 
