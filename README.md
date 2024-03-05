@@ -183,94 +183,96 @@
 | 181. | Python | X | Penguin Classification | [Link](https://github.com/thealper2/Penguin-Classification) | [Kaggle](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data) |
 | 182. | Python | X | League of Legends win Prediction | [Link](https://github.com/thealper2/League-of-Legends-Win-Prediction) | [Kaggle](https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min) |
 | 183. | Python | X | World Cup 2022 Sentiment Analysis | [Link](https://github.com/thealper2/WC-2022-Sentiment-Analysis) | [Kaggle](https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets) |
-| 184. | C# | ASP.NET | ML.net Fake Bank Note Detection | [Link](https://github.com/thealper2/ML.net-Fake-Bank-Note-Detection) | []() |
-| 185. | C# | ASP.NET | ML.net Weight Category Classification | [Link](https://github.com/thealper2/ML.net-Weight-Category-Classification) | []() |
-| 186. | C# | ASP.NET | ML.net Glass Classification | [Link](https://github.com/thealper2/ML.net-Glass-Classification) | []() |
-| 187. | C# | ASP.NET | ML.net Taxi Fare Prediction | [Link](https://github.com/thealper2/ML.net-Taxi-Fare-Prediction) | []() |
-| 188. | C# | ASP.NET | ML.net Fish Weight Prediction | [Link](https://github.com/thealper2/ML.net-Fish-Weight-Prediction) | []() |
-| 189. | C# | ASP.NET | ML.net ASP.NET Glass Classification | [Link](https://github.com/thealper2/ML.net-ASP-Glass-Classification) | []() | 
-| 190. | Python | Flask | Wine Quality Checker | [Link](https://github.com/thealper2/Wine-Quality-Checker) | []() |
-| 191. | Python | cometml | CometML Diabetes Prediction | [Link](https://github.com/thealper2/Comet-ML-Diabetes-Prediction) | []() |
-| 192. | Python | cometml | CometML Breast Cancer Classification | [Link](https://github.com/thealper2/Comet-ML-Breast-Cancer-Classification) | []() |
-| 193. | Python | Flask | Fashion MNIST Flask | [Link](https://github.com/thealper2/Fashion-MNIST-Flask) | []() |
-| 194. | Python | X | FASTAI IMDB Sentiment Analysis | [Link](https://github.com/thealper2/FASTAI-IMDB-Sentiment-Analysis) | []() |
-| 195. | Python | FastAPI + React | FASTAPI Iris Classification | [Link](https://github.com/thealper2/Iris-Classification) | []() |
-| 196. | Python | Flask | Flask MNIST Digit Classification | [Link](https://github.com/thealper2/FLASK-MNIST-Digit-Classification) | []() |
-| 197. | Python | mlflow | MLflow Liver Disease Prediction | [Link](https://github.com/thealper2/MLflow-Liver-Disease-Prediction) | []() | 
-| 198. | Python | Dash | Dash Iris Classification | [Link](https://github.com/thealper2/Dash-Iris-Classification) | []() |
-| 199. | Python | Dash | Dash Heart Disease Prediction | [Link](https://github.com/thealper2/Dash-Heart-Disease-Prediction) | []() |
-| 200. | Go | X | GONUM Sales Prediction | [Link](https://github.com/thealper2/GONUM-Sales-Prediction) | []() |
-| 201. | Flutter | Mobile | MLKit Text Recognition | [Link](https://github.com/thealper2/MLKit_Text_Recognition) | []() |
-| 202. | Flutter | Mobile | MLKit Image Labeling | [Link](https://github.com/thealper2/MLKit_Image_Labeling) | []() |
-| 203. | Flutter | Mobile | MLKit Barcode Scanner | [Link](https://github.com/thealper2/MLKit_Barcode_Scanner) | []() |
-| 204. | Flutter | Mobile | MLKit Smiling Detection |  [Link](https://github.com/thealper2/MLKit_Smiling_Detection) | []() |
-| 205. | Flutter | Mobile | MLKit Text Translation |  [Link](https://github.com/thealper2/MLKit_Text_Translation) | []() |
-| 206. | Flutter | Mobile | MLKit Object Detection |  [Link](https://github.com/thealper2/MLKit_Object_Detection) | []() |
-| 207. | Flutter | Mobile | MLKit Face Detection |  [Link](https://github.com/thealper2/MLKit_Face_Detection) | []() |
-| 208. | Flutter | Mobile | Fruit Vegetable Classification |  [Link](https://github.com/thealper2/Fruit-Vegetable-Classification) | []() |
-| 209. | Python | Spark | Adult Income Classification |  [Link](https://github.com/thealper2/Spark-Adult-Income-Classification) | []() |
-| 210. | Python | Spark | Sales Prediction |  [Link](https://github.com/thealper2/Spark-Sales-Prediction) | []() |
-| 211. | Python | Spark | Mall Customers Clustering |  [Link](https://github.com/thealper2/Spark-Mall-Customers-Clustering) | []() |
-| 212. | Python | Spark | Iris Classification |  [Link](https://github.com/thealper2/Spark-Iris-Classification) | []() |
-| 213. | Scala | X | Cryotherapy Analysis |  [Link](https://github.com/thealper2/Cryotherapy-Analysis) | []() |
-| 214. | Scala | X | Traffic Prediction |  [Link](https://github.com/thealper2/Traffic-Prediction) | []() |
-| 215. | Python | X | Web Forum Analysis |  [Link](https://github.com/thealper2/Web-Forum-Analysis) | []() |
-| 216. | Python | X | AWS Honeypot Analysis |  [Link](https://github.com/thealper2/AWS-Honeypot-Analysis) | []() |
-| 217. | Python | X | Malware Memory Analysis |  [Link](https://github.com/thealper2/Malware-Memory-Analysis) | []() |
-| 218. | Python | X | Cyber Security Job Salary Prediction |  [Link](https://github.com/thealper2/Cyber-Security-Job-Salary-Prediction) | []() |
-| 219. | Python | X | CVE Severity Prediction |  [Link](https://github.com/thealper2/BERT-CVE-Severity-Prediction) | []() |
-| 220. | Python | X | MNIST Evasion Attack FGSM Method |  [Link](https://github.com/thealper2/MNIST-Evasion-Attack-FGSM-Method) | []() |
-| 221. | Python | X | CIFAR10 DeepFool Attack |  [Link](https://github.com/thealper2/CIFAR10-DeepFool-Attack) | []() |
-| 222. | Python | X | Fashion MNIST MIFace Model Inversion Attack |  [Link](https://github.com/thealper2/Fashion-MNIST-MIFace-Model-Inversion-Attack) | []() |
-| 223. | Javascript | Extension | LSTM Text Generator |  [Link](https://github.com/thealper2/LSTM-Text-Generator) | []() |
-| 224. | Python | X | CIFAR10 Laser Beam Attack |  [Link](https://github.com/thealper2/CIFAR10-Laser-Beam-Attack) | []() |
-| 225. | Python | X | Captcha Solver |  [Link](https://github.com/thealper2/captcha_solver) | []() |
-| 226. | CUDA | X | CUDA Vector Addition |  [Link](https://github.com/thealper2/CUDA-Vector-Addition) | []() |
-| 227. | Python | X | DCGAN |  [Link](https://github.com/thealper2/tf-keras-dcgan) | []() |
-| 228. | Python | X | MALIMG Malware Classification |  [Link](https://github.com/thealper2/MALIMG-Malware-Classification) | []() |
-| 229. | Python | Flask | peml: ML-Based PE File Analyzer |  [Link](https://github.com/thealper2/peml) | []() |
-| 230. | Python | X | Quran NLP Analysis |  [Link](https://github.com/thealper2/quran-nlp-analysis) | []() |
-| 231. | Python | X | Air Passengers Prediction |  [Link](https://github.com/thealper2/Air-Passengers-Prediction) | []() |
-| 232. | Python | X | Wildfire Detection |  [Link](https://github.com/thealper2/Wildfire-Detection) | []() |
-| 233. | Python | X | BTC Analysis |  [Link](https://github.com/thealper2/BTC-Analysis) | []() |
-| 234. | Python | X | CSGO Round Winner Prediction |  [Link](https://github.com/thealper2/CSGO-Round-Winner-Prediction) | []() |
-| 235. | Python | X | XR WRIST Classification |  [Link](https://github.com/thealper2/MURA-XR-WRIST-Classification) | []() |
-| 236. | Python | Flask | androml: ML-Based Android APK File Analyzer |  [Link](https://github.com/thealper2/androml) | []() |
-| 237. | Python | X | Automatic License Plate Detection |  [Link](https://github.com/thealper2/Automatic-License-Plate-Detection) | []() |
-| 238. | Python | X | Pytesseract Document Classification |  [Link](https://github.com/thealper2/Pytesseract-Document-Classification) | []() |
-| 239. | Javascript | Extension | Spam Detection Extension |  [Link](https://github.com/thealper2/Spam-Detection-Extension) | []() |
-| 240. | Python | X | Pentest Screenshot Classification |  [Link](https://github.com/thealper2/Pentest-Screenshot-Classification) | []() |
-| 241. | Python | X | Weapon Detection |  [Link](https://github.com/thealper2/Weapon-Detection) | []() |
-| 242. | Python | X | PDF Document Classification |  [Link](https://github.com/thealper2/PDF-Document-Classification) | []() |
-| 243. | Python | X | Deep Fake Voice Recognition |  [Link](https://github.com/thealper2/Deep-Fake-Voice-Recognition) | []() |
-| 244. | Python | X | Javascript Obfuscation Detection |  [Link](https://github.com/thealper2/Javascript-Obfuscation-Detection) | []() |
-| 245. | Python | X | Hybrid Apps Security Analysis |  [Link](https://github.com/thealper2/Hybrid-Apps-Security-Analysis) | []() |
-| 246. | Python | X | IoT Device Temperature Forecasting |  [Link](https://github.com/thealper2/IoT-Device-Temperature-Forecasting) | []() |
-| 247. | Python | Django | M1 Purchase Prediction |  [Link](https://github.com/thealper2/M1-Purchase-Prediction) | []() |
-| 248. | Python | Flask | Cyber Inspector |  [Link](https://github.com/thealper2/AISECLAB-cyber-inspector) | []() |
-| 249. | Python | X | Malicious QR Detection |  [Link](https://github.com/thealper2/Malicious-QR-Detection) | []() |
-| 250. | Python | X | Mr Robot Season Prediction |  [Link](https://github.com/thealper2/Mr-Robot-Season-Prediction) | []() |
-| 251. | Python | X | Poker Hand Classification |  [Link](https://github.com/thealper2/Poker-Hand-Classification) | []() |
-| 252. | Python | X | Forest Cover Type Prediction |  [Link](https://github.com/thealper2/Forest-Cover-Type-Prediction) | []() |
-| 253. | Python | X | Marathon Time Prediction |  [Link](https://github.com/thealper2/Marathon-Time-Prediction) | []() |
-| 254. | Python | X | Diamond Price Prediction |  [Link](https://github.com/thealper2/Diamond-Price-Prediction) | []() |
-| 255. | Python | X | Grocery A/B Test |  [Link](https://github.com/thealper2/Grocery-AB-Test) | []() |
-| 256. | Python | X | Customer Segmentation |  [Link](https://github.com/thealper2/Customer-Segmentation) | []() |
-| 257. | Python | X | Mall Customer Clustering |  [Link](https://github.com/thealper2/Mall-Customer-Clustering) | []() |
-| 258. | Python | X | Aquatic Animal Classification |  [Link](https://github.com/thealper2/Aquatic-Animal-Classification) | []() |
-| 259. | Python | X | Face Mask Detection |  [Link](https://github.com/thealper2/Face-Mask-Detection) | []() |
-| 260. | Python | X | Medical Image Denoising |  [Link](https://github.com/thealper2/Medical-Image-Denoising) | []() |
-| 261. | Python | X | Phone Price Prediction |  [Link](https://github.com/thealper2/Phone-Price-Prediction) | []() |
-| 262. | Python | X | Sound Classification |  [Link](https://github.com/thealper2/Sound-Classification) | []() |
-| 263. | Python | X | pescanner: ML-Based PE File Scanner |  [Link](https://github.com/thealper2/pescanner) | []() |
-
-
-
-
-
-
-
-
+| 184. | C# | ASP.NET | ML.net Fake Bank Note Detection | [Link](https://github.com/thealper2/ML.net-Fake-Bank-Note-Detection) | [X]() |
+| 185. | C# | ASP.NET | ML.net Weight Category Classification | [Link](https://github.com/thealper2/ML.net-Weight-Category-Classification) | [Kaggle](https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex) |
+| 186. | C# | ASP.NET | ML.net Glass Classification | [Link](https://github.com/thealper2/ML.net-Glass-Classification) | [Kaggle](https://www.kaggle.com/datasets/uciml/glass) |
+| 187. | C# | ASP.NET | ML.net Taxi Fare Prediction | [Link](https://github.com/thealper2/ML.net-Taxi-Fare-Prediction) | [X]() |
+| 188. | C# | ASP.NET | ML.net Fish Weight Prediction | [Link](https://github.com/thealper2/ML.net-Fish-Weight-Prediction) | [X]() |
+| 189. | C# | ASP.NET | ML.net ASP.NET Glass Classification | [Link](https://github.com/thealper2/ML.net-ASP-Glass-Classification) | [Kaggle](https://www.kaggle.com/datasets/uciml/glass) | 
+| 190. | Python | Flask | Wine Quality Checker | [Link](https://github.com/thealper2/Wine-Quality-Checker) | [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) |
+| 191. | Python | cometml | CometML Diabetes Prediction | [Link](https://github.com/thealper2/Comet-ML-Diabetes-Prediction) | [X]() |
+| 192. | Python | cometml | CometML Breast Cancer Classification | [Link](https://github.com/thealper2/Comet-ML-Breast-Cancer-Classification) | [X]() |
+| 193. | Python | Flask | Fashion MNIST Flask | [Link](https://github.com/thealper2/Fashion-MNIST-Flask) | [X]() |
+| 194. | Python | X | FASTAI IMDB Sentiment Analysis | [Link](https://github.com/thealper2/FASTAI-IMDB-Sentiment-Analysis) | [X]() |
+| 195. | Python | FastAPI + React | FASTAPI Iris Classification | [Link](https://github.com/thealper2/Iris-Classification) | [X]() |
+| 196. | Python | Flask | Flask MNIST Digit Classification | [Link](https://github.com/thealper2/FLASK-MNIST-Digit-Classification) | [X]() |
+| 197. | Python | mlflow | MLflow Liver Disease Prediction | [Link](https://github.com/thealper2/MLflow-Liver-Disease-Prediction) | [Kaggle](https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset) | 
+| 198. | Python | Dash | Dash Iris Classification | [Link](https://github.com/thealper2/Dash-Iris-Classification) | [X]() |
+| 199. | Python | Dash | Dash Heart Disease Prediction | [Link](https://github.com/thealper2/Dash-Heart-Disease-Prediction) | [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) |
+| 200. | Go | X | GONUM Sales Prediction | [Link](https://github.com/thealper2/GONUM-Sales-Prediction) | [X]() |
+| 201. | Flutter | Mobile | MLKit Text Recognition | [Link](https://github.com/thealper2/MLKit_Text_Recognition) | [X]() |
+| 202. | Flutter | Mobile | MLKit Image Labeling | [Link](https://github.com/thealper2/MLKit_Image_Labeling) | [X]() |
+| 203. | Flutter | Mobile | MLKit Barcode Scanner | [Link](https://github.com/thealper2/MLKit_Barcode_Scanner) | [X]() |
+| 204. | Flutter | Mobile | MLKit Smiling Detection |  [Link](https://github.com/thealper2/MLKit_Smiling_Detection) | [X]() |
+| 205. | Flutter | Mobile | MLKit Text Translation |  [Link](https://github.com/thealper2/MLKit_Text_Translation) | [X]() |
+| 206. | Flutter | Mobile | MLKit Object Detection |  [Link](https://github.com/thealper2/MLKit_Object_Detection) | [X]() |
+| 207. | Flutter | Mobile | MLKit Face Detection |  [Link](https://github.com/thealper2/MLKit_Face_Detection) | [X]() |
+| 208. | Flutter | Mobile | Fruit Vegetable Classification |  [Link](https://github.com/thealper2/Fruit-Vegetable-Classification) | [Kaggle](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition) |
+| 209. | Python | Spark | Adult Income Classification |  [Link](https://github.com/thealper2/Spark-Adult-Income-Classification) | [Kaggle](https://www.kaggle.com/datasets/uciml/adult-census-income) |
+| 210. | Python | Spark | Sales Prediction |  [Link](https://github.com/thealper2/Spark-Sales-Prediction) | [X]() |
+| 211. | Python | Spark | Mall Customers Clustering |  [Link](https://github.com/thealper2/Spark-Mall-Customers-Clustering) | [X]() |
+| 212. | Python | Spark | Iris Classification |  [Link](https://github.com/thealper2/Spark-Iris-Classification) | [X]() |
+| 213. | Scala | X | Cryotherapy Analysis |  [Link](https://github.com/thealper2/Cryotherapy-Analysis) | [Kaggle](https://www.kaggle.com/datasets/mmkvarma/cryotherapy-analysis) |
+| 214. | Scala | X | Traffic Prediction |  [Link](https://github.com/thealper2/Traffic-Prediction) | [X]() |
+| 215. | Python | X | Web Forum Analysis |  [Link](https://github.com/thealper2/Web-Forum-Analysis) | [Kaggle](https://www.azsecure-data.org/geoweb-forums.html) |
+| 216. | Python | X | AWS Honeypot Analysis |  [Link](https://github.com/thealper2/AWS-Honeypot-Analysis) | [Kaggle](https://www.kaggle.com/datasets/casimian2000/aws-honeypot-attack-data) |
+| 217. | Python | X | Malware Memory Analysis |  [Link](https://github.com/thealper2/Malware-Memory-Analysis) | [Kaggle](https://www.kaggle.com/datasets/luccagodoy/obfuscated-malware-memory-2022-cic) |
+| 218. | Python | X | Cyber Security Job Salary Prediction |  [Link](https://github.com/thealper2/Cyber-Security-Job-Salary-Prediction) | [Kaggle](https://www.kaggle.com/datasets/deepcontractor/cyber-security-salaries) |
+| 219. | Python | X | CVE Severity Prediction |  [Link](https://github.com/thealper2/BERT-CVE-Severity-Prediction) | [Kaggle](https://www.kaggle.com/datasets/krooz0/cve-and-cwe-mapping-dataset) |
+| 220. | Python | X | MNIST Evasion Attack FGSM Method |  [Link](https://github.com/thealper2/MNIST-Evasion-Attack-FGSM-Method) | [X]() |
+| 221. | Python | X | CIFAR10 DeepFool Attack |  [Link](https://github.com/thealper2/CIFAR10-DeepFool-Attack) | [X]() |
+| 222. | Python | X | Fashion MNIST MIFace Model Inversion Attack |  [Link](https://github.com/thealper2/Fashion-MNIST-MIFace-Model-Inversion-Attack) | [X]() |
+| 223. | Javascript | Extension | LSTM Text Generator |  [Link](https://github.com/thealper2/LSTM-Text-Generator) | [X]() |
+| 224. | Python | X | CIFAR10 Laser Beam Attack |  [Link](https://github.com/thealper2/CIFAR10-Laser-Beam-Attack) | [X]() |
+| 225. | Python | X | Captcha Solver |  [Link](https://github.com/thealper2/captcha_solver) | [Kaggle](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images) |
+| 226. | CUDA | X | CUDA Vector Addition |  [Link](https://github.com/thealper2/CUDA-Vector-Addition) | [X]() |
+| 227. | Python | X | DCGAN |  [Link](https://github.com/thealper2/tf-keras-dcgan) | [X]() |
+| 228. | Python | X | MALIMG Malware Classification |  [Link](https://github.com/thealper2/MALIMG-Malware-Classification) | [Kaggle](https://www.kaggle.com/datasets/manmandes/malimg) |
+| 229. | Python | Flask | peml: ML-Based PE File Analyzer |  [Link](https://github.com/thealper2/peml) | [Kaggle](https://www.kaggle.com/datasets/fanbyprinciple/file-pe-headers) |
+| 230. | Python | X | Quran NLP Analysis |  [Link](https://github.com/thealper2/quran-nlp-analysis) | [Kaggle](https://www.kaggle.com/datasets/zusmani/the-holy-quran) |
+| 231. | Python | X | Air Passengers Prediction |  [Link](https://github.com/thealper2/Air-Passengers-Prediction) | [Kaggle](https://www.kaggle.com/datasets/rakannimer/air-passengers) |
+| 232. | Python | X | Wildfire Detection |  [Link](https://github.com/thealper2/Wildfire-Detection) | [Kaggle](https://www.kaggle.com/datasets/ritupande/fire-detection-from-cctv) |
+| 233. | Python | X | BTC Analysis |  [Link](https://github.com/thealper2/BTC-Analysis) | [Kaggle](https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset) |
+| 234. | Python | X | CSGO Round Winner Prediction |  [Link](https://github.com/thealper2/CSGO-Round-Winner-Prediction) | [Kaggle](https://www.kaggle.com/datasets/christianlillelund/csgo-round-winner-classification) |
+| 235. | Python | X | XR WRIST Classification |  [Link](https://github.com/thealper2/MURA-XR-WRIST-Classification) | [Kaggle](https://www.kaggle.com/datasets/cjinny/mura-v11) |
+| 236. | Python | Flask | androml: ML-Based Android APK File Analyzer |  [Link](https://github.com/thealper2/androml) | [Kaggle](https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-for-machine-learning) |
+| 237. | Python | X | Automatic License Plate Detection |  [Link](https://github.com/thealper2/Automatic-License-Plate-Detection) | [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection) |
+| 238. | Python | X | Pytesseract Document Classification |  [Link](https://github.com/thealper2/Pytesseract-Document-Classification) | [X]() |
+| 239. | Javascript | Extension | Spam Detection Extension |  [Link](https://github.com/thealper2/Spam-Detection-Extension) | [X]() |
+| 240. | Python | X | Pentest Screenshot Classification |  [Link](https://github.com/thealper2/Pentest-Screenshot-Classification) | [Kaggle](https://www.kaggle.com/datasets/altf42600/pentest-screensots) |
+| 241. | Python | X | Weapon Detection |  [Link](https://github.com/thealper2/Weapon-Detection) | [Kaggle](https://www.kaggle.com/datasets/ankan1998/weapon-detection-dataset) |
+| 242. | Python | X | PDF Document Classification |  [Link](https://github.com/thealper2/PDF-Document-Classification) | [X]() |
+| 243. | Python | X | Deep Fake Voice Recognition |  [Link](https://github.com/thealper2/Deep-Fake-Voice-Recognition) | [Kaggle](https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition) |
+| 244. | Python | X | Javascript Obfuscation Detection |  [Link](https://github.com/thealper2/Javascript-Obfuscation-Detection) | [Kaggle](https://www.kaggle.com/datasets/fanbyprinciple/obfuscated-javascript-dataset) |
+| 245. | Python | X | Hybrid Apps Security Analysis |  [Link](https://github.com/thealper2/Hybrid-Apps-Security-Analysis) | [Kaggle](https://www.kaggle.com/datasets/aksingh2411/hybrid-apps-security-analysis) |
+| 246. | Python | X | IoT Device Temperature Forecasting |  [Link](https://github.com/thealper2/IoT-Device-Temperature-Forecasting) | [Kaggle](https://www.kaggle.com/datasets/atulanandjha/temperature-readings-iot-devices) |
+| 247. | Python | Django | M1 Purchase Prediction |  [Link](https://github.com/thealper2/M1-Purchase-Prediction) | [Kaggle](https://www.kaggle.com/datasets/hunter0007/m1-data) |
+| 248. | Python | Flask | Cyber Inspector |  [Link](https://github.com/thealper2/AISECLAB-cyber-inspector) | [Kaggle](https://www.kaggle.com/datasets/evg3n1j/fwaf-dataset) |
+| 249. | Python | X | Malicious QR Detection |  [Link](https://github.com/thealper2/Malicious-QR-Detection) | [Kaggle](https://www.kaggle.com/datasets/samahsadiq/benign-and-malicious-qr-codes) |
+| 250. | Python | X | Mr Robot Season Prediction |  [Link](https://github.com/thealper2/Mr-Robot-Season-Prediction) | [Kaggle](https://www.kaggle.com/datasets/arnavr10880/mr-robot-all-episodes-dataset) |
+| 251. | Python | X | Poker Hand Classification |  [Link](https://github.com/thealper2/Poker-Hand-Classification) | [Kaggle](https://www.kaggle.com/datasets/rasvob/uci-poker-hand-dataset) |
+| 252. | Python | X | Forest Cover Type Prediction |  [Link](https://github.com/thealper2/Forest-Cover-Type-Prediction) | [Kaggle](https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset) |
+| 253. | Python | X | Marathon Time Prediction |  [Link](https://github.com/thealper2/Marathon-Time-Prediction) | [Kaggle](https://www.kaggle.com/datasets/girardi69/marathon-time-predictions) |
+| 254. | Python | X | Diamond Price Prediction |  [Link](https://github.com/thealper2/Diamond-Price-Prediction) | [Kaggle](https://www.kaggle.com/datasets/shivam2503/diamonds) |
+| 255. | Python | X | Grocery A/B Test |  [Link](https://github.com/thealper2/Grocery-AB-Test) | [Kaggle](https://www.kaggle.com/datasets/tklimonova/grocery-website-data-for-ab-test) |
+| 256. | Python | X | Customer Segmentation |  [Link](https://github.com/thealper2/Customer-Segmentation) | [Kaggle](https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository) |
+| 257. | Python | X | Mall Customer Clustering |  [Link](https://github.com/thealper2/Mall-Customer-Clustering) | [Kaggle](https://www.kaggle.com/datasets/shwetabh123/mall-customers) |
+| 258. | Python | X | Aquatic Animal Classification |  [Link](https://github.com/thealper2/Aquatic-Animal-Classification) | [Kaggle](https://www.kaggle.com/datasets/andrea2727/dataset-of-aquatic-animals) |
+| 259. | Python | X | Face Mask Detection |  [Link](https://github.com/thealper2/Face-Mask-Detection) | [Kaggle](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) |
+| 260. | Python | X | Medical Image Denoising |  [Link](https://github.com/thealper2/Medical-Image-Denoising) | [Kaggle](https://www.kaggle.com/datasets/parthplc/medical-image-dataset) |
+| 261. | Python | X | Phone Price Prediction |  [Link](https://github.com/thealper2/Phone-Price-Prediction) | [Kaggle](https://www.kaggle.com/datasets/ahmetfurkandemr/trendyol-smartphones) |
+| 262. | Python | X | Sound Classification |  [Link](https://github.com/thealper2/Sound-Classification) | [Kaggle](https://www.kaggle.com/datasets/chrisfilo/urbansound8k) |
+| 263. | Python | Streamlit | pescanner: ML-Based PE File Scanner |  [Link](https://github.com/thealper2/pescanner) | [Kaggle](https://www.kaggle.com/datasets/fanbyprinciple/file-pe-headers) |
+| 264. | Python | X | Steam Score Prediction | [Link](https://github.com/thealper2/Steam-Score-Prediction) | [Kaggle](https://www.kaggle.com/datasets/whigmalwhim/steam-releases) |
+| 265. | Python | X | YAMNet Audio Classification | [Link](https://github.com/thealper2/YAMNet-Audio-Classification) | [Kaggle](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs) |
+| 266. | Python | X | Wav2Vec2 Extracting Text from Audio | [Link](https://github.com/thealper2/Wav2Vec2-Extracting-Text-from-Audio) | [Kaggle](https://www.kaggle.com/datasets/mouadriali/iemocap-transcriptions-english-french) |
+| 267. | Python | X | CropNet Leaf Disease Classification | [Link](https://github.com/thealper2/CropNet-Leaf-Disease-Classification) | [Kaggle](https://www.kaggle.com/datasets/tahsin/cassava-leaf-disease-merged) |
+| 268. | Python | X | MapDB Bug Classification | [Link](https://github.com/thealper2/Bug-Classification) | [Kaggle](https://www.kaggle.com/datasets/vellyy/bug-hunter) |
+| 269. | Python | X | Stable Diffusion + BART + text2img Generate Images from Story | [Link](https://github.com/thealper2/SD-BART-text2img) | [Kaggle](https://www.kaggle.com/datasets/tschomacker/grimms-fairy-tales) |
+| 270. | Python | X | Computer Hardware Identification | [Link](https://github.com/thealper2/Hardware-Identification) | [Kaggle](https://www.kaggle.com/datasets/asaniczka/pc-parts-images-dataset-classification) | 
+| 271. | Python | X | English to French Machine Translation | [Link](https://github.com/thealper2/Machine-Translation) | [Kaggle](https://www.kaggle.com/datasets/devicharith/language-translation-englishfrench) |
+| 272. | Python | HuggingFace | Türk Televizyon Dizilerinin Devamlılığının Tespiti | [Link](https://github.com/thealper2/gator-bim-429) | [Github](https://github.com/thealper2/gator-bim-429/blob/main/data/cleaned.csv)| 
+| 273. | Python | ESP8266 | Wifi Indoor Positioning | [Link](https://github.com/thealper2/wifi-indoor-positioning) | [Github](https://github.com/thealper2/wifi-indoor-positioning/blob/main/data.csv) | 
 
 
 
