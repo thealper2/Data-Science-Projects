@@ -288,6 +288,23 @@
 | 286. | Python | X | CAPTCHA OCR with CTC Loss | [Link](https://github.com/thealper2/CAPTCHA-OCR) | [Kaggle](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images) |
 | 287. | Python | X | MNIST CapsuleNet | [Link](https://github.com/thealper2/MNIST-CapsuleNet) | X |
 | 288. | Python | X | Signature Verification using Siamese Network with Triplet Loss | [Link](https://github.com/thealper2/Signature-Verification) | [Kaggle](https://www.kaggle.com/datasets/alinassermohummed/persons) |
+| 299. | Python | Streamlit | Turkish News Classification | [Link](https://github.com/thealper2/turkish-news-classification) | X |
+| 300. | Python | X | Turkish News Classification using Hierarchical Attention Networks | [Link](https://github.com/thealper2/tr-news-classification) | [Kaggle](https://www.kaggle.com/datasets/dilemre/turkish-news-article) |
+| 301. | Python | X | Data Science Jobs Classification using Zero Shot Classification | [Link](https://github.com/thealper2/DS-Jobs-Classification) | [Kaggle](https://www.kaggle.com/datasets/kanchana1990/linkedin-canada-data-science-jobs-2024) |
+| 302. | Python | X | Hymenoptera Classification using PyTorch | [Link](https://github.com/thealper2/Hymenoptera-Classification) | [Kaggle](https://www.kaggle.com/datasets/ajayrana/hymenoptera-data) |
+| 303. | Python | X | DCGAN Butterfly Generation | [Link](https://github.com/thealper2/Butterfly-Generation) | [Kaggle](https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species) |
+| 304. | Python | X | Cycle GAN Apple-to-Orange | [Link](https://github.com/thealper2/CGAN-Apple-to-Orange) | [Kaggle](https://www.kaggle.com/datasets/balraj98/apple2orange-dataset) |
+| 305. | Python | X | 3D MNIST Classification | [Link](https://github.com/thealper2/3d-mnist-classification) | [Kaggle](https://www.kaggle.com/datasets/daavoo/3d-mnist) |
+| 306. | Python | X | Wasserstein GAN Anime Face Generation | [Link](https://github.com/thealper2/WGAN-Anime-Face-Generation) | [Kaggle](https://www.kaggle.com/datasets/soumikrakshit/anime-faces) |
+| 307. | Python | X | Point-e: Text to 3D Object Generation | [Link](https://github.com/thealper2/Point-e-Demo) | [X]() |
+| 308. | Python | X | Turkish Tweet Classification using BERT | [Link](https://github.com/thealper2/Turkish-Tweet-Classification) | [Kaggle](https://www.kaggle.com/datasets/anil1055/turkish-tweet-dataset) |
+| 309. | Python | X | MNIST Label Smoothing GAN | [Link](https://github.com/thealper2/MNIST-Label-Smooting-GAN) | [X]() |
+| 310. | Python | X | Turkish Poem Generation using TextRNN | [Link](https://github.com/thealper2/Turkish-Poem-Generation) | [Kaggle](https://www.kaggle.com/datasets/emreokcular/turkish-poems) |
+| 311. | Python | X | VGG19 Style Transfer | [Link](https://github.com/thealper2/VGG19-Style-Transfer) | [X]() |
+| 312. | Python | X | CIFAR10 Vision Transformer | [Link](https://github.com/thealper2/CIFAR10-ViT) | [X]() |
+| 313. | Python | X | LSTM MIDI Music Generator | [Link](https://github.com/thealper2/LSTM-Music-Generator) | [Kaggle](https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi) |
+| 314. | Python | X | IM2LATEX using CTC Loss | [Link](https://github.com/thealper2/IM2LATEX-CTC-Loss) | [Kaggle](https://www.kaggle.com/datasets/shahrukhkhan/im2latex100k) |
+| 315. | Python | X | MNIST Conditional GAN | [Link]([https://github.com/thealper2/IM2LATEX-CTC-Loss](https://github.com/thealper2/MNIST-Conditional-GAN)) | [X]() |
 
 
 
