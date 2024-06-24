@@ -304,7 +304,7 @@
 | 312. | Python | X | CIFAR10 Vision Transformer | [Link](https://github.com/thealper2/CIFAR10-ViT) | [X]() |
 | 313. | Python | X | LSTM MIDI Music Generator | [Link](https://github.com/thealper2/LSTM-Music-Generator) | [Kaggle](https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi) |
 | 314. | Python | X | IM2LATEX using CTC Loss | [Link](https://github.com/thealper2/IM2LATEX-CTC-Loss) | [Kaggle](https://www.kaggle.com/datasets/shahrukhkhan/im2latex100k) |
-| 315. | Python | X | MNIST Conditional GAN | [Link]([https://github.com/thealper2/IM2LATEX-CTC-Loss](https://github.com/thealper2/MNIST-Conditional-GAN)) | [X]() |
+| 315. | Python | X | MNIST Conditional GAN | [Link](https://github.com/thealper2/MNIST-Conditional-GAN) | [X]() |
 
 
 
