@@ -305,10 +305,10 @@
 | 313. | Python | X | LSTM MIDI Music Generator | [Link](https://github.com/thealper2/LSTM-Music-Generator) | [Kaggle](https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi) |
 | 314. | Python | X | IM2LATEX using CTC Loss | [Link](https://github.com/thealper2/IM2LATEX-CTC-Loss) | [Kaggle](https://www.kaggle.com/datasets/shahrukhkhan/im2latex100k) |
 | 315. | Python | X | MNIST Conditional GAN | [Link](https://github.com/thealper2/MNIST-Conditional-GAN) | [X]() |
-| 316. | Python | X | RASA VirusTotal Chatbot | [Link](https://github.com/thealper2/rasa-virustotal-chatbot) | [X]() |
+| 316. | Python | Unity | RASA VirusTotal Chatbot | [Link](https://github.com/thealper2/rasa-virustotal-chatbot) | [X]() |
 | 317. | Python | X | Udacity Self Driving Car - Behavioural Cloning | [Link](https://github.com/thealper2/self-driving-car) | [X]() |
 | 318. | R | X | Brain Tumour Detection | [Link](https://github.com/thealper2/R-Brain-Tumour-Detection) | [Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) |
-| 319. | Python | X | Ollama PDF RAG | [Link](https://github.com/thealper2/ollama-pdf-rag) | [X]() |
+| 319. | Python | Streamlit | Ollama PDF RAG | [Link](https://github.com/thealper2/ollama-pdf-rag) | [X]() |
 
 
 
