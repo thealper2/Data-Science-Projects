@@ -311,6 +311,6 @@
 | 319. | Python | Streamlit | Ollama PDF RAG | [Link](https://github.com/thealper2/ollama-pdf-rag) | [X]() |
 | 320. | Python | X | PDF Malware Detection | [Link](https://github.com/thealper2/PDF-Malware-Detection) | [X]() |
 | 321. | Python | X | Ollama PDF RAG | [Link]() | [X](https://github.com/thealper2/ollama-pdf-rag) |
-| 322. | Python | X | LLAVA Math Solver | [Link](https://github.com/thealper2/LLAVA-Math-Solver) | [X] () |
+| 322. | Python | X | LLAVA Math Solver | [Link](https://github.com/thealper2/LLAVA-Math-Solver) | [X]() |
 
 
