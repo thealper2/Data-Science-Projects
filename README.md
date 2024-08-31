@@ -278,7 +278,7 @@
 | 276. | Python | X | DGAN Simpson Face Generation | [Link](https://github.com/thealper2/Simspons-Face-Generation) | [Kaggle](https://www.kaggle.com/datasets/kostastokis/simpsons-faces) |
 | 277. | Python | X | Breast Ultrasoung Image Segmentation using U-Net | [Link](https://github.com/thealper2/Breast-Ultrasound-Image-Segmentation) | [Kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset) |
 | 278. | Python | X | CGAN Map Generation | [Link](https://github.com/thealper2/Maps-Generation) | [Kaggle](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset) |
-| 279. | Python | X | MNIST Siamese Network | [Link](https://github.com/thealper2/MNIST-Siamese-Network) | X |
+| 279. | Python | X | MNIST Siamese Network | [Link](https://github.com/thealper2/MNIST-Siamese-Network) | [X]() |
 | 280. | Python | X | World News Classification using Temporal Convolutional Network | [Link](https://github.com/thealper2/World-News-Classification) | [Kaggle](https://www.kaggle.com/datasets/khoshbayani/news-texts) |
 | 281. | Python | X | EN-TR Translation using Bahdanau Attention | [Link](https://github.com/thealper2/EN-TR-Bahdanau-Attention) | [Kaggle](https://www.kaggle.com/datasets/alincijov/bilingual-sentence-pairs) |
 | 282. | Python | X | EN-TR Translation using Luong Attention | [Link](https://github.com/thealper2/EN-TR-Luong-Attention) | [Kaggle](https://www.kaggle.com/datasets/alincijov/bilingual-sentence-pairs) |
