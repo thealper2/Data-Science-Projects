@@ -273,7 +273,7 @@
 | 271. | Python | X | English to French Machine Translation | [Link](https://github.com/thealper2/Machine-Translation) | [Kaggle](https://www.kaggle.com/datasets/devicharith/language-translation-englishfrench) |
 | 272. | Python | HuggingFace | Türk Televizyon Dizilerinin Devamlılığının Tespiti | [Link](https://github.com/thealper2/gator-bim-429) | [Github](https://github.com/thealper2/gator-bim-429/blob/main/data/cleaned.csv)| 
 | 273. | Python | ESP8266 | Wifi Indoor Positioning | [Link](https://github.com/thealper2/wifi-indoor-positioning) | [Github](https://github.com/thealper2/wifi-indoor-positioning/blob/main/data.csv) | 
-| 274. | Python | X | Neural Style Transfer | [Link](https://github.com/thealper2/Neural-Style-Transfer) | [Kaggle](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)[Kaggle](https://www.kaggle.com/datasets/balabaskar/wonders-of-the-world-image-classification) |
+| 274. | Python | X | Neural Style Transfer | [Link](https://github.com/thealper2/Neural-Style-Transfer) | [Kaggle](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time) - [Kaggle](https://www.kaggle.com/datasets/balabaskar/wonders-of-the-world-image-classification) |
 | 275. | Python | X | Gender and Age Prediction from Face | [Link](https://github.com/thealper2/Gender-and-Age-Prediction-from-Face) | [Kaggle](https://www.kaggle.com/datasets/jangedoo/utkface-new) |
 | 276. | Python | X | DGAN Simpson Face Generation | [Link](https://github.com/thealper2/Simspons-Face-Generation) | [Kaggle](https://www.kaggle.com/datasets/kostastokis/simpsons-faces) |
 | 277. | Python | X | Breast Ultrasoung Image Segmentation using U-Net | [Link](https://github.com/thealper2/Breast-Ultrasound-Image-Segmentation) | [Kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset) |
@@ -286,9 +286,9 @@
 | 284. | Python | X | Sudoku Solver CNN + PyTesseract | [Link](https://github.com/thealper2/Sudoku-Solver-CNN) | [Kaggle](https://www.kaggle.com/datasets/bryanpark/sudoku) |
 | 285. | Python | X | Turkish Song Lyrics Generation | [Link](https://github.com/thealper2/Turkish-Song-Lyrics-Generation) | [Kaggle](https://www.kaggle.com/datasets/emreokcular/turkish-song-lyrics) |
 | 286. | Python | X | CAPTCHA OCR with CTC Loss | [Link](https://github.com/thealper2/CAPTCHA-OCR) | [Kaggle](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images) |
-| 287. | Python | X | MNIST CapsuleNet | [Link](https://github.com/thealper2/MNIST-CapsuleNet) | X |
+| 287. | Python | X | MNIST CapsuleNet | [Link](https://github.com/thealper2/MNIST-CapsuleNet) | [X]() |
 | 288. | Python | X | Signature Verification using Siamese Network with Triplet Loss | [Link](https://github.com/thealper2/Signature-Verification) | [Kaggle](https://www.kaggle.com/datasets/alinassermohummed/persons) |
-| 299. | Python | Streamlit | Turkish News Classification | [Link](https://github.com/thealper2/turkish-news-classification) | X |
+| 299. | Python | Streamlit | Turkish News Classification | [Link](https://github.com/thealper2/turkish-news-classification) | [X]() |
 | 300. | Python | X | Turkish News Classification using Hierarchical Attention Networks | [Link](https://github.com/thealper2/tr-news-classification) | [Kaggle](https://www.kaggle.com/datasets/dilemre/turkish-news-article) |
 | 301. | Python | X | Data Science Jobs Classification using Zero Shot Classification | [Link](https://github.com/thealper2/DS-Jobs-Classification) | [Kaggle](https://www.kaggle.com/datasets/kanchana1990/linkedin-canada-data-science-jobs-2024) |
 | 302. | Python | X | Hymenoptera Classification using PyTorch | [Link](https://github.com/thealper2/Hymenoptera-Classification) | [Kaggle](https://www.kaggle.com/datasets/ajayrana/hymenoptera-data) |
@@ -312,5 +312,10 @@
 | 320. | Python | X | PDF Malware Detection | [Link](https://github.com/thealper2/PDF-Malware-Detection) | [X]() |
 | 321. | Python | X | Ollama PDF RAG | [Link]() | [X](https://github.com/thealper2/ollama-pdf-rag) |
 | 322. | Python | X | LLAVA Math Solver | [Link](https://github.com/thealper2/LLAVA-Math-Solver) | [X]() |
-
+| 323. | Python | X | MNIST Auxiliary Classifier GAN | [Link](https://github.com/thealper2/MNIST-Auxiliary-Classifier-GAN) | [X]() |
+| 324. | Python | X | MNIST Energy-based GAN | [Link](https://github.com/thealper2/MNIST-EBGAN) | [X]() |
+| 325. | Python | X | MNIST DRAGAN | [Link](https://github.com/thealper2/MNIST-DRAGAN) | [X]() |
+| 326. | Python | X | MNIST Least Squares GAN | [Link](https://github.com/thealper2/MNIST-Least-Squares-GAN) | [X]() |
+| 327. | Python | X | CelebA StarGAN | [Link](https://github.com/thealper2/CelebA-StarGAN) | [X]() | 
+| 328. | Python | X | Tic Tac Toe with Minimax Algorith | [Link](https://github.com/thealper2/tictactoe-with-minimax) | [X]() |
 
