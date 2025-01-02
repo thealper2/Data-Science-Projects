@@ -324,3 +324,20 @@
 | 332. | Python | X | MNIST InfoGAN | [Link](https://github.com/thealper2/MNIST-InfoGAN) | [X]() |
 | 333. | Python | X | Next Word Prediction | [Link](https://github.com/thealper2/Next-Word-Prediction) | [X]() |
 | 334. | Python | X | Visualizing Numerical Features using Chernoff Faces | [Link](https://github.com/thealper2/Visualizing-Chernoff-Faces) | [X]() |
+| 335. | Python | X | FashionMNIST PixelCNN | [Link](https://github.com/thealper2/FashionMNIST-PixelCNN) | [X]() |
+| 336. | Python | X | MNIST Maxout Networks | [Link](https://github.com/thealper2/MNIST-Maxout-Networks) | [X]() |
+| 337. | Python | X | PyTorch Deep Image Prior | [Link](https://github.com/thealper2/PT-Deep-Image-Prior) | [X]() | 
+| 338. | Python | X | MNIST Network-in-Network (NiN) | [Link](https://github.com/thealper2/MNIST-Network-in-Network) | [X]() |
+| 339. | Python | X | Image Colorization using Autoencoders | [Link](https://github.com/thealper2/AE-Image-Colorization) | [X]() |
+| 340. | Python | X | Low-Light Image Enhancement using Autoencoders | [Link](https://github.com/thealper2/AE-Low-Light-Image-Enhancement) | [X]() |
+| 341. | Python | X | Image Resolution Enhancement using Autoencoders | [Link](https://github.com/thealper2/AE-Image-Resolution-Enhancement) | [X]() |
+| 342. | Python | X | MNIST Restricted Boltzmann Machines | [Link](https://github.com/thealper2/MNIST-RBM) | [X]() |
+| 343. | Python | X | MNIST Radial Basis Network | [Link](https://github.com/thealper2/MNIST-RBN) | [X]() |
+| 344. | Python | X | MNIST Hopfield Network | [Link](https://github.com/thealper2/MNIST-Hopfield-Networks) | [X]() |
+| 345. | Python | X | Generating Stories using Markov Chains | [Link](https://github.com/thealper2/Markov-Chains-Story-Generation) | [X]() |
+| 346. | Python | X | Passenger Prediction usign Echo State Networks (ESN) | [Link](https://github.com/thealper2/ESN-Regression) | [X]() |
+| 347. | Python | X | Color Clustering using Self Organizing Maps (SOM - Kohonen Networks) | [Link](https://github.com/thealper2/Kohonen-Network-Clustering) | [X]() |
+| 348. | Python | X | Movie Recommendation usign Matrix Factorization | [Link](https://github.com/thealper2/Movie-Recommender-MF) | [X]() |
+| 349. | Python | X | Traffic Sign Detection using YOLOv8 | [Link](https://github.com/thealper2/YOLO-Traffic-Sign-Detection) | [X]() |
+| 350. | Python | X | Sentiment Analysis usign Deep Averaging Networks (DAN) | [Link](https://github.com/thealper2/DAN-Sentiment-Analysis) | [X]() | 
+| 351. | Python | X | MNIST Highway Networks | [Link](https://github.com/thealper2/MNIST-Highway-Networks) | [X]() |
