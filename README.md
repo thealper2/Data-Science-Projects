@@ -318,4 +318,9 @@
 | 326. | Python | X | MNIST Least Squares GAN | [Link](https://github.com/thealper2/MNIST-Least-Squares-GAN) | [X]() |
 | 327. | Python | X | CelebA StarGAN | [Link](https://github.com/thealper2/CelebA-StarGAN) | [X]() | 
 | 328. | Python | X | Tic Tac Toe with Minimax Algorith | [Link](https://github.com/thealper2/tictactoe-with-minimax) | [X]() |
-
+| 329. | Python | X | MNIST SoftmaxGAN | [Link](https://github.com/thealper2/MNIST-SoftmaxGAN) | [X]() |
+| 330. | Python | X | MNIST Forward-Forward Algorithm | [Link](https://github.com/thealper2/MNIST-FFA) | [X]() |
+| 331. | Python | X | MNIST Relativistic GAN | [Link](https://github.com/thealper2/MNIST-Relativistic-GAN) | [X]() |
+| 332. | Python | X | MNIST InfoGAN | [Link](https://github.com/thealper2/MNIST-InfoGAN) | [X]() |
+| 333. | Python | X | Next Word Prediction | [Link](https://github.com/thealper2/Next-Word-Prediction) | [X]() |
+| 334. | Python | X | Visualizing Numerical Features using Chernoff Faces | [Link](https://github.com/thealper2/Visualizing-Chernoff-Faces) | [X]() |
