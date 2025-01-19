@@ -341,3 +341,12 @@
 | 349. | Python | X | Traffic Sign Detection using YOLOv8 | [Link](https://github.com/thealper2/YOLO-Traffic-Sign-Detection) | [X]() |
 | 350. | Python | X | Sentiment Analysis usign Deep Averaging Networks (DAN) | [Link](https://github.com/thealper2/DAN-Sentiment-Analysis) | [X]() | 
 | 351. | Python | X | MNIST Highway Networks | [Link](https://github.com/thealper2/MNIST-Highway-Networks) | [X]() |
+| 352. | Python | X | Faster R-CNN Mask Detection | [Link](https://github.com/thealper2/Faster-R-CNN-Face-Mask-Detection) | [X]() |
+| 353. | Python | X | IMDB Maximum Entropy Classifier | [Link](https://github.com/thealper2/IMDB-Maximum-Entropy-Classifier) | [X]() |
+| 354. | Python | X | MNIST Neural Ordinary Differential Equations Network (ODE Network) | [Link](https://github.com/thealper2/MNIST-ODENet) | [X]() |
+| 355. | Python | X | MNIST DenseNet | [Link](https://github.com/thealper2/MNIST-DenseNet) | [X]() |
+| 356. | Python | X | MNIST CNN + QLoRA | [Link](https://github.com/thealper2/MNIST-CNN-QLoRA) | [X]() |
+| 357. | Python | X | MNIST CNN + LoRA | [Link](https://github.com/thealper2/MNIST-CNN-LoRA) | [X]() |
+| 358. | Python | X | MNIST CNN Knowledge Distillation | [Link](https://github.com/thealper2/MNIST-CNN-Knowledge-Distillation) | [X]() |
+| 359. | Python | X | Variable Selection Network | [Link](https://github.com/thealper2/SL-Variable-Selection-Network) | [X]() |
+| 360. | Python | X | MNIST ResNet50 with Squeeze and Excitation Blocks | [Link](https://github.com/thealper2/MNIST-ResNet50-SaE) | [X]() |
