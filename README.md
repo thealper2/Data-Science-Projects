@@ -350,3 +350,9 @@
 | 358. | Python | X | MNIST CNN Knowledge Distillation | [Link](https://github.com/thealper2/MNIST-CNN-Knowledge-Distillation) | [X]() |
 | 359. | Python | X | Variable Selection Network | [Link](https://github.com/thealper2/SL-Variable-Selection-Network) | [X]() |
 | 360. | Python | X | MNIST ResNet50 with Squeeze and Excitation Blocks | [Link](https://github.com/thealper2/MNIST-ResNet50-SaE) | [X]() |
+| 361. | Python | X | MNIST Ladder Network | [Link](https://github.com/thealper2/MNIST-Ladder-Network) | [X]() |
+| 362. | Python | X | MNIST Reversible Residual Network (RevNet) | [Link](https://github.com/thealper2/MNIST-RevNet) | [X]() |
+| 363. | Python | X | MNIST BagNet-33 | [Link](https://github.com/thealper2/MNIST-BagNet33) | [X]() |
+| 364. | Python | X | MNIST Extreme Learning Machine (ELM) | [Link](https://github.com/thealper2/MNIST-ELM) | [X]() |
+| 365. | Python | X | MNIST Deep Belief Network (DBN) | [Link](https://github.com/thealper2/MNIST-DBN) | [X]() |
+| 366. | Python | X | MNIST MNIST Graph Convolutional Network (GCN) | [Link](https://github.com/thealper2/MNIST-GCN) | [X]() |
